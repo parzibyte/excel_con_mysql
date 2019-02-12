@@ -1,0 +1,14 @@
+{
+    "name": "parzibyte/excel_a_mysql",
+    "description": "Importar/Exportar un archivo de Excel a/hacia MySQL",
+    "type": "project",
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.6"
+    },
+    "authors": [
+        {
+            "name": "Luis Cabrera Benito",
+            "email": "contacto@parzibyte.me"
+        }
+    ]
+}
